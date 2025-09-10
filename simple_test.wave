@@ -1,0 +1,10 @@
+# WAVE_FORMAT v1.0
+# Simple test model with just a few blocks
+# BOUNDS: 0.0 0.0 0.0 200.0 200.0 100.0
+# BLOCKS: 4
+# Format: X Y Z WIDTH HEIGHT DEPTH ROCK_TYPE POROSITY PERMEABILITY
+#
+50.0 50.0 25.0 40.0 40.0 20.0 sandstone 0.15 1.0e-12
+150.0 50.0 25.0 40.0 40.0 20.0 limestone 0.08 5.0e-14
+50.0 150.0 75.0 40.0 40.0 20.0 shale 0.05 1.0e-16
+150.0 150.0 75.0 40.0 40.0 20.0 granite 0.02 1.0e-18

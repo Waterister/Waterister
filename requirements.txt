@@ -1,0 +1,8 @@
+# Requirements for Geologic Pblock Wave-to-Voxel Conversion
+numpy>=1.19.0
+netCDF4>=1.5.0  # Optional, for NetCDF export support
+scipy>=1.6.0    # For interpolation and spatial operations
+
+# Optional dependencies for enhanced functionality
+matplotlib>=3.3.0  # For visualization
+pandas>=1.2.0      # For data manipulation
