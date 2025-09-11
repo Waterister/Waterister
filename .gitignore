@@ -1,0 +1,22 @@
+# Geologic Processing Outputs and Test Files
+test_output*/
+output/
+output_final/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
